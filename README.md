@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Toolkit Class Assigment
+Data Science Toolkit Class Assignment
